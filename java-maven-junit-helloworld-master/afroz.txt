@@ -1,0 +1,2 @@
+This is sample text file of afroz.
+This is the second time modification on this file.
